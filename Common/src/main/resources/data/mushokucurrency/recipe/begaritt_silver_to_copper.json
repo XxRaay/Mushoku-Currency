@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mushokucurrency:begaritt_silver_coin"
+    }
+  ],
+  "result": {
+    "id": "mushokucurrency:begaritt_copper_coin",
+    "count": 64
+  }
+}

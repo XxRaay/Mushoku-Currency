@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mushokucurrency:demon_large_stone_coin"
+    }
+  ],
+  "result": {
+    "id": "mushokucurrency:demon_stone_coin",
+    "count": 10
+  }
+}

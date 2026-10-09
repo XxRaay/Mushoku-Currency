@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "mushokucurrency",
+  "version": "${version}",
+  "name": "Mushoku Currency",
+  "description": "Regional currencies and village economy system inspired by Mushoku Tensei",
+  "authors": [
+    "XxRaay"
+  ],
+  "contact": {},
+  "license": "FCAIL",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mushokuaddons.currency.fabric.MushokuCurrencyFabric"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.2",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "architectury": "*"
+  }
+}

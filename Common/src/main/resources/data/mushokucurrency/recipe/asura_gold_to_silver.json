@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mushokucurrency:asura_gold_coin"
+    }
+  ],
+  "result": {
+    "id": "mushokucurrency:asura_silver_coin",
+    "count": 10
+  }
+}
